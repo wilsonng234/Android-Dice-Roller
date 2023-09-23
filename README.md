@@ -1,9 +1,9 @@
 # Android-Dice-Roller
 
-A Kotlin-based Android application that allows users to roll dice with their Android mobile devices.
+A Kotlin-based Android application that allows users to roll dice with their Android mobile devices.  
 Credit: [Android Basics with Compose: Unit 2](https://developer.android.com/courses/android-basics-compose/unit-2)
 
-## Version
+## Versions
 
 - IDE Version: Android Studio Giraffe | 2022.3.1 Patch 1  
 - JDK Version: OpenJDK 20.0.2  
